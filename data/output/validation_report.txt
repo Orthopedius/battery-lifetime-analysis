@@ -1,0 +1,35 @@
+﻿VALIDIERUNGSBERICHT LEBENSDAUER-AUSWERTUNG
+===============================================
+Gesamtstatus: FAILED
+
+KENNZAHLEN
+- excel_cells: 65
+- raw_files: 132
+- raw_rows_read: 102100475
+- raw_rows_rejected: 0
+- recovered_state2_files: 7
+- state2_files: 65
+- state2_rows: 148731
+- cycle_files: 65
+- cycle_rows: 148731
+- cycles: 48422
+- capacity_cells: 64
+- capacity_rows: 45308
+- reference_rows: 65
+- error_occurrences: 45
+- warning_occurrences: 2
+- error_groups: 1
+- warning_groups: 1
+
+BEFUNDE
+- [ERROR] CYCLE_CLASSIFICATION_INVALID (45x): Line/Command/I[A]-Pruefung klassifiziert Zyklus als invalid
+    Beispiel: df_MH_MA_VZ_3,8_10µm_168h_2: Segment 6, BaSyTec-Cycle 2
+    Beispiel: df_MH_MA_VZ_3,8_10µm_1h_11: Segment 38, BaSyTec-Cycle 2
+    Beispiel: df_MH_MA_VZ_3,8_10µm_24h_1: Segment 8, BaSyTec-Cycle 1
+    Beispiel: df_MH_MA_VZ_3,8_10µm_24h_4: Segment 7, BaSyTec-Cycle 35
+    Beispiel: df_MH_MA_VZ_3,8_10µm_48h_1: Segment 36, BaSyTec-Cycle 17
+- [WARNING] STATE2_TIME_ORDER (2x): Zeitstempel innerhalb einer Zell-Datei fallen zurueck
+    Beispiel: df_MH_MA_VZ_3,8_10µm_1h_12_state2.tsv.gz: Zeile 205
+    Beispiel: df_MH_MA_VZ_3,8_10µm_1h_9_state2.tsv.gz: Zeile 200
+- [INFO] LONGTERM_NOT_EXPECTED (1x): Keine Kapazitaetsreihe ist als erwartet konfiguriert
+    Beispiel: df_MH_MA_VZ_3,8_5µm_24h_4

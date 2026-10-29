@@ -1,0 +1,25 @@
+﻿Excel-Export Lebensdauerdaten
+Quelle: D:\HiWi\Lebensdauer_Auswertung_Batterie\data\processed\capacity\capacity_by_cycle.tsv.gz
+Zeitbasierte Darstellung: nein
+Ungueltige Werte: bereits vor dem Export ausgeschlossen
+
+Ref_1h: 4 Zellen, 2220 Werte, Bereich A1:AL546
+5um_1h: 4 Zellen, 2135 Werte, Bereich A1:AL518
+5um_24h: 4 Zellen, 1545 Werte, Bereich A1:AL502
+5um_48h: 4 Zellen, 3107 Werte, Bereich A1:AL755
+5um_168h: 6 Zellen, 4298 Werte, Bereich A1:AZ737
+10um_1h: 6 Zellen, 3245 Werte, Bereich A1:AZ556
+10um_24h: 4 Zellen, 2297 Werte, Bereich A1:AL627
+10um_48h: 4 Zellen, 2048 Werte, Bereich A1:AL503
+10um_168h: 6 Zellen, 3017 Werte, Bereich A1:AZ516
+5um_48h_35C: 6 Zellen, 5605 Werte, Bereich A1:AZ993
+10um_48h_35C: 6 Zellen, 6589 Werte, Bereich A1:AZ1218
+Pouch_Ref_48h: 3 Zellen, 2357 Werte, Bereich A1:AE813
+Pouch_10um_48h_0b: 2 Zellen, 1122 Werte, Bereich A1:X577
+Pouch_10um_48h_1b: 2 Zellen, 1238 Werte, Bereich A1:X768
+Pouch_10um_48h_2b: 2 Zellen, 2118 Werte, Bereich A1:X1038
+Pouch_10um_48h_3b: 2 Zellen, 2367 Werte, Bereich A1:X1192
+
+df_MH_MA_VZ_3,8_5µm_24h_4: keine Langzeitdaten
+SOH: je Zelle und Rate auf deren ersten gueltigen Kapazitaetswert normiert.
+Std: Stichproben-Standardabweichung (n-1); bei nur einem Wert leer.

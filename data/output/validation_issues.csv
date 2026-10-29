@@ -1,0 +1,4 @@
+﻿severity;code;count;message;examples
+error;CYCLE_CLASSIFICATION_INVALID;45;Line/Command/I[A]-Pruefung klassifiziert Zyklus als invalid;df_MH_MA_VZ_3,8_10µm_168h_2: Segment 6, BaSyTec-Cycle 2 | df_MH_MA_VZ_3,8_10µm_1h_11: Segment 38, BaSyTec-Cycle 2 | df_MH_MA_VZ_3,8_10µm_24h_1: Segment 8, BaSyTec-Cycle 1 | df_MH_MA_VZ_3,8_10µm_24h_4: Segment 7, BaSyTec-Cycle 35 | df_MH_MA_VZ_3,8_10µm_48h_1: Segment 36, BaSyTec-Cycle 17
+warning;STATE2_TIME_ORDER;2;Zeitstempel innerhalb einer Zell-Datei fallen zurueck;df_MH_MA_VZ_3,8_10µm_1h_12_state2.tsv.gz: Zeile 205 | df_MH_MA_VZ_3,8_10µm_1h_9_state2.tsv.gz: Zeile 200
+info;LONGTERM_NOT_EXPECTED;1;Keine Kapazitaetsreihe ist als erwartet konfiguriert;df_MH_MA_VZ_3,8_5µm_24h_4

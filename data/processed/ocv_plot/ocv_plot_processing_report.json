@@ -1,0 +1,1283 @@
+[
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi1_Vorversuchsreihe.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi1_Vorversuchsreihe.txt",
+    "rows_read": 8647,
+    "rows_written": 1346,
+    "rows_skipped": 7301
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi2_Vorversuchsreihe_retry_komplett.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi2_Vorversuchsreihe_retry_komplett.txt",
+    "rows_read": 74,
+    "rows_written": 39,
+    "rows_skipped": 35
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi3_Vorversuchsreihe.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi3_Vorversuchsreihe.txt",
+    "rows_read": 8650,
+    "rows_written": 1344,
+    "rows_skipped": 7306
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi4_Vorversuchsreihe.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi4_Vorversuchsreihe.txt",
+    "rows_read": 8651,
+    "rows_written": 1344,
+    "rows_skipped": 7307
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi5_Vorversuchsreihe.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi5_Vorversuchsreihe.txt",
+    "rows_read": 8650,
+    "rows_written": 1346,
+    "rows_skipped": 7304
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi6_Vorversuchsreihe_state2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi6_Vorversuchsreihe_state2.txt",
+    "rows_read": 13,
+    "rows_written": 2,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi7_Vorversuchsreihe.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi7_Vorversuchsreihe.txt",
+    "rows_read": 8650,
+    "rows_written": 1343,
+    "rows_skipped": 7307
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi8_Vorversuchsreihe.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi8_Vorversuchsreihe.txt",
+    "rows_read": 8651,
+    "rows_written": 1343,
+    "rows_skipped": 7308
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_2,68_PreLi9_Vorversuchsreihe.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_2,68_PreLi9_Vorversuchsreihe.txt",
+    "rows_read": 8649,
+    "rows_written": 1341,
+    "rows_skipped": 7308
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi1_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi1_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1410,
+    "rows_skipped": 7244
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi2_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi2_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1416,
+    "rows_skipped": 7238
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi3_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi3_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1416,
+    "rows_skipped": 7238
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi4_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi4_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1418,
+    "rows_skipped": 7236
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi5_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi5_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1415,
+    "rows_skipped": 7239
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi6_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi6_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1417,
+    "rows_skipped": 7237
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi7_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi7_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1418,
+    "rows_skipped": 7236
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi8_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi8_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1412,
+    "rows_skipped": 7242
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_PreLi9_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_PreLi9_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1415,
+    "rows_skipped": 7239
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref1_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref1_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1404,
+    "rows_skipped": 7250
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref2_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref2_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1404,
+    "rows_skipped": 7250
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref3_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref3_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1405,
+    "rows_skipped": 7249
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref4_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref4_Lebensdauertest_3.8.txt",
+    "rows_read": 8653,
+    "rows_written": 1410,
+    "rows_skipped": 7243
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref5_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref5_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1404,
+    "rows_skipped": 7250
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref6_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref6_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1406,
+    "rows_skipped": 7248
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref7_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref7_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1403,
+    "rows_skipped": 7251
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref8_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref8_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1400,
+    "rows_skipped": 7254
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_GB_MA_VZ_3.8_Ref9_Lebensdauertest_3.8.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_GB_MA_VZ_3.8_Ref9_Lebensdauertest_3.8.txt",
+    "rows_read": 8654,
+    "rows_written": 1406,
+    "rows_skipped": 7248
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_FP_VZ_65_24h_1_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_FP_VZ_65_24h_1_Formierung.txt",
+    "rows_read": 86406,
+    "rows_written": 1476,
+    "rows_skipped": 84930
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_FP_VZ_65_24h_2_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_FP_VZ_65_24h_2_Formierung.txt",
+    "rows_read": 86405,
+    "rows_written": 1476,
+    "rows_skipped": 84929
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_FP_VZ_65_24h_3_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_FP_VZ_65_24h_3_Formierung.txt",
+    "rows_read": 86405,
+    "rows_written": 1477,
+    "rows_skipped": 84928
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VV_VZ_SiO_Ref_1_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VV_VZ_SiO_Ref_1_Formierung.txt",
+    "rows_read": 722,
+    "rows_written": 141,
+    "rows_skipped": 581
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VV_VZ_SiO_Ref_2_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VV_VZ_SiO_Ref_2_Formierung.txt",
+    "rows_read": 722,
+    "rows_written": 140,
+    "rows_skipped": 582
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VV_VZ_SiO_Ref_3_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VV_VZ_SiO_Ref_3_Formierung.txt",
+    "rows_read": 722,
+    "rows_written": 139,
+    "rows_skipped": 583
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VV_VZ_SiO_Ref_4_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VV_VZ_SiO_Ref_4_Formierung.txt",
+    "rows_read": 722,
+    "rows_written": 138,
+    "rows_skipped": 584
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VV_VZ_SiO_Ref_5_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VV_VZ_SiO_Ref_5_Formierung.txt",
+    "rows_read": 722,
+    "rows_written": 138,
+    "rows_skipped": 584
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_1_Lebensdauer.txt",
+    "rows_read": 604644,
+    "rows_written": 10057,
+    "rows_skipped": 594587
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_1_Lebensdauer_Langzeit_state2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_1_Lebensdauer_Langzeit_state2.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_2_Lebensdauer.txt",
+    "rows_read": 604646,
+    "rows_written": 10057,
+    "rows_skipped": 594589
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_3_Lebensdauer.txt",
+    "rows_read": 604649,
+    "rows_written": 10058,
+    "rows_skipped": 594591
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_4_Lebensdauer.txt",
+    "rows_read": 604648,
+    "rows_written": 10058,
+    "rows_skipped": 594590
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_5_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_5_Lebensdauer.txt",
+    "rows_read": 604637,
+    "rows_written": 10067,
+    "rows_skipped": 594570
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_5_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_5_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_6_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_6_Lebensdauer.txt",
+    "rows_read": 604642,
+    "rows_written": 10067,
+    "rows_skipped": 594575
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_168h_6_Lebensdauer_Langzeit_state2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_168h_6_Lebensdauer_Langzeit_state2.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_10_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_10_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_10_Lebensdauertest.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_10_Lebensdauertest.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_11_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_11_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_11_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_11_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_12_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_12_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_12_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_12_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_1_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_2_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_3_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_4_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_5_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_5_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_5_Lebensdauer_Langzeit_state2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_5_Lebensdauer_Langzeit_state2.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_6_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_6_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_6_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_6_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_7_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_7_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_8_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_8_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_9_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_9_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_1h_9_Lebensdauertest.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_1h_9_Lebensdauertest.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_1_Lebensdauer.txt",
+    "rows_read": 86397,
+    "rows_written": 1476,
+    "rows_skipped": 84921
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_2_Lebensdauer.txt",
+    "rows_read": 86396,
+    "rows_written": 1475,
+    "rows_skipped": 84921
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_3_Lebensdauer.txt",
+    "rows_read": 86397,
+    "rows_written": 1475,
+    "rows_skipped": 84922
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_4_Lebensdauer.txt",
+    "rows_read": 86398,
+    "rows_written": 1475,
+    "rows_skipped": 84923
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_24h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_24h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_1_Lebensdauer.txt",
+    "rows_read": 172712,
+    "rows_written": 2914,
+    "rows_skipped": 169798
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_2_Lebensdauer.txt",
+    "rows_read": 172712,
+    "rows_written": 2914,
+    "rows_skipped": 169798
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_3_Lebensdauer.txt",
+    "rows_read": 172710,
+    "rows_written": 2915,
+    "rows_skipped": 169795
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_4_Lebensdauer.txt",
+    "rows_read": 172712,
+    "rows_written": 2914,
+    "rows_skipped": 169798
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_10\u00b5m_48h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_10\u00b5m_48h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_1_Lebensdauer.txt",
+    "rows_read": 604759,
+    "rows_written": 10051,
+    "rows_skipped": 594708
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_2_Lebensdauer.txt",
+    "rows_read": 604759,
+    "rows_written": 10051,
+    "rows_skipped": 594708
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_3_Lebensdauer.txt",
+    "rows_read": 604762,
+    "rows_written": 10051,
+    "rows_skipped": 594711
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_4_Lebensdauer.txt",
+    "rows_read": 604760,
+    "rows_written": 10051,
+    "rows_skipped": 594709
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_5_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_5_Lebensdauer.txt",
+    "rows_read": 604760,
+    "rows_written": 10049,
+    "rows_skipped": 594711
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_5_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_5_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_6_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_6_Lebensdauer.txt",
+    "rows_read": 604762,
+    "rows_written": 10049,
+    "rows_skipped": 594713
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_168h_6_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_168h_6_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_1_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_2_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 109,
+    "rows_skipped": 3497
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_3_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 109,
+    "rows_skipped": 3497
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_3_Lebensdauer_Langzeit_state2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_3_Lebensdauer_Langzeit_state2.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_4_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 109,
+    "rows_skipped": 3497
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_1h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_1h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_24h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_24h_1_Lebensdauer.txt",
+    "rows_read": 86327,
+    "rows_written": 1487,
+    "rows_skipped": 84840
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_24h_1_Lebensdauer_Langzeit_state2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_24h_1_Lebensdauer_Langzeit_state2.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_24h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_24h_2_Lebensdauer.txt",
+    "rows_read": 86325,
+    "rows_written": 1487,
+    "rows_skipped": 84838
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_24h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_24h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_24h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_24h_3_Lebensdauer.txt",
+    "rows_read": 86325,
+    "rows_written": 1487,
+    "rows_skipped": 84838
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_24h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_24h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 13,
+    "rows_written": 1,
+    "rows_skipped": 12
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_24h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_24h_4_Lebensdauer.txt",
+    "rows_read": 86326,
+    "rows_written": 1487,
+    "rows_skipped": 84839
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_48h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_48h_1_Lebensdauer.txt",
+    "rows_read": 172659,
+    "rows_written": 2926,
+    "rows_skipped": 169733
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_48h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_48h_2_Lebensdauer.txt",
+    "rows_read": 172657,
+    "rows_written": 2926,
+    "rows_skipped": 169731
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_48h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_48h_3_Lebensdauer.txt",
+    "rows_read": 172805,
+    "rows_written": 2903,
+    "rows_skipped": 169902
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_48h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_48h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_48h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_48h_4_Lebensdauer.txt",
+    "rows_read": 172806,
+    "rows_written": 2902,
+    "rows_skipped": 169904
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_5\u00b5m_48h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_5\u00b5m_48h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_1_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_2_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_3_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_4_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_5_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_5_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_5_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_5_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_6_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_6_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_6_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_6_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_7_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_7_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 108,
+    "rows_skipped": 3498
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_7_Lebensdauer_Langzeit_state2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_7_Lebensdauer_Langzeit_state2.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_8_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_8_Lebensdauer.txt",
+    "rows_read": 3606,
+    "rows_written": 107,
+    "rows_skipped": 3499
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_MA_VZ_3,8_Ref_1h_8_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_MA_VZ_3,8_Ref_1h_8_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_1_Lebensdauer_1.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_1_Lebensdauer_1.txt",
+    "rows_read": 9,
+    "rows_written": 1,
+    "rows_skipped": 8
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_1_Lebensdauer_2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_1_Lebensdauer_2.txt",
+    "rows_read": 172806,
+    "rows_written": 2900,
+    "rows_skipped": 169906
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_2_Lebensdauer.txt",
+    "rows_read": 172806,
+    "rows_written": 2901,
+    "rows_skipped": 169905
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_3_Lebensdauer.txt",
+    "rows_read": 172806,
+    "rows_written": 2902,
+    "rows_skipped": 169904
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_4_Lebensdauer.txt",
+    "rows_read": 172805,
+    "rows_written": 2900,
+    "rows_skipped": 169905
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_5_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_5_Lebensdauer.txt",
+    "rows_read": 172805,
+    "rows_written": 2901,
+    "rows_skipped": 169904
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_5_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_5_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_6_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_6_Lebensdauer.txt",
+    "rows_read": 172806,
+    "rows_written": 2902,
+    "rows_skipped": 169904
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_6_Lebensdauer_langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_10\u00b5m_48h_35\u00b0C_6_Lebensdauer_langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_1_Lebensdauer.txt",
+    "rows_read": 172806,
+    "rows_written": 2900,
+    "rows_skipped": 169906
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_1_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_1_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_2_Lebensdauer.txt",
+    "rows_read": 172806,
+    "rows_written": 2900,
+    "rows_skipped": 169906
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_2_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_2_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_3_Lebensdauer.txt",
+    "rows_read": 172804,
+    "rows_written": 2900,
+    "rows_skipped": 169904
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_3_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_3_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_4_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_4_Lebensdauer.txt",
+    "rows_read": 172805,
+    "rows_written": 2901,
+    "rows_skipped": 169904
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_4_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_4_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_5_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_5_Lebensdauer.txt",
+    "rows_read": 172805,
+    "rows_written": 2900,
+    "rows_skipped": 169905
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_5_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_5_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_6_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_6_Lebensdauer.txt",
+    "rows_read": 172805,
+    "rows_written": 2900,
+    "rows_skipped": 169905
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_6_Lebensdauer_Langzeit.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_3,8_5\u00b5m_48h_35\u00b0C_6_Lebensdauer_Langzeit.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_1_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_1_Formierung.txt",
+    "rows_read": 172806,
+    "rows_written": 2907,
+    "rows_skipped": 169899
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_1_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_2_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_2_Formierung.txt",
+    "rows_read": 172806,
+    "rows_written": 2904,
+    "rows_skipped": 169902
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_0b_2_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_1_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_1_Formierung.txt",
+    "rows_read": 172805,
+    "rows_written": 2902,
+    "rows_skipped": 169903
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_1_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_2_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_2_Formierung.txt",
+    "rows_read": 172806,
+    "rows_written": 2903,
+    "rows_skipped": 169903
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_1b_2_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_1_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_1_Formierung.txt",
+    "rows_read": 172806,
+    "rows_written": 2905,
+    "rows_skipped": 169901
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_1_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_2_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_2_Formierung.txt",
+    "rows_read": 172806,
+    "rows_written": 2905,
+    "rows_skipped": 169901
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_2b_2_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_1_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_1_Formierung.txt",
+    "rows_read": 172806,
+    "rows_written": 2901,
+    "rows_skipped": 169905
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_1_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_2_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_2_Formierung.txt",
+    "rows_read": 172805,
+    "rows_written": 2904,
+    "rows_skipped": 169901
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_10\u00b5m_48h_3b_2_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_1_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_1_Formierung.txt",
+    "rows_read": 55,
+    "rows_written": 5,
+    "rows_skipped": 50
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_1_Formierung_1.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_1_Formierung_1.txt",
+    "rows_read": 5468,
+    "rows_written": 139,
+    "rows_skipped": 5329
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_1_Formierung_2.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_1_Formierung_2.txt",
+    "rows_read": 172806,
+    "rows_written": 2900,
+    "rows_skipped": 169906
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_1_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_1_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_2_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_2_Formierung.txt",
+    "rows_read": 172805,
+    "rows_written": 2905,
+    "rows_skipped": 169900
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_2_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_2_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_3_Formierung.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_3_Formierung.txt",
+    "rows_read": 172806,
+    "rows_written": 2906,
+    "rows_skipped": 169900
+  },
+  {
+    "source": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv\\df_MH_VZ_PZ_3,8_Ref_48h_3_Lebensdauer.txt",
+    "destination": "D:\\HiWi\\Lebensdauer_Auswertung_Batterie\\data\\processed\\ocv_plot\\df_MH_VZ_PZ_3,8_Ref_48h_3_Lebensdauer.txt",
+    "rows_read": 12,
+    "rows_written": 1,
+    "rows_skipped": 11
+  }
+]

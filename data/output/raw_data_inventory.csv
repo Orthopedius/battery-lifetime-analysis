@@ -1,0 +1,188 @@
+﻿cell_id;excel_cell_id;target_cell;enabled;include_validation;expect_longterm;policy_note;source_files;lifetime_source_files;explicit_longterm_files;raw_rows_read;state2_rows;cycle_sections;c2_cycles;max_lifetime_cycle;capacity_values;has_longterm_data;fingerprint;change_status;recommended_action
+df_GB_MA_VZ_2,68_PreLi1_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1524758;2839;929;748;849;0;true;5af37d27d9a1bb9f5e0b32d64b27bf5ed4c181db978b72743a51dfcc4bb7dabc;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi2_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1156906;2740;896;733;811;0;true;acdfa3ecb4469ff6c4b239dfdf59876d21a6a8646e137ebd274988933c1733c7;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi3_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1512288;2938;962;779;893;0;true;616fde3e02137ff82576863a5bd165a810143ff16b95c6d2f988d5764ce1af6b;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi4_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1369671;2825;924;756;854;0;true;4cd8054620344e7aa9612eb643817a9ef75f1407048de6fb77bbd5e4c6b5af40;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi5_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1368831;2963;971;800;905;0;true;8c96fcb7cc72821f2fb3e3c9e782fd0f019c486a8f755481ab34482a70a4bd4a;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi6_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;2590;2590;846;692;758;0;true;6bbcc810fe925a616a36796342ce57c2b22c6d5037becce9e2448e453b9c0e0b;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi7_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1297320;2780;912;751;834;0;true;73d4cede1252717f2c61a62d0678d84b9e08b58bf3aaa48ea8a157ff51d011d3;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi8_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1295662;2969;973;801;914;0;true;f935b672ae1a54828a677d6fc474e9dfc4df7312f02dd6fec06250864328cfc9;unchanged;exclude
+df_GB_MA_VZ_2,68_PreLi9_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1290160;2927;960;790;886;0;true;7524bf44506ddfe19486fd05d071cb1d92851a105713b6329b0ab77864e924ef;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref1_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;810889;1676;549;442;467;0;true;941799d5835300da97621915c339650efe4de27b91bbae552aee6c2871b6cb90;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref2_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;813984;1615;528;422;447;0;true;12cc5a90ade84b1457fa39aaacfddb055e6798fa7de65eaf589d9dcf1969d003;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref3_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;801332;1736;567;463;478;0;true;055f8d176a25e2cc706f99ff70ca4f8cc597433f406b52fcfd9b58f56773628c;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref4_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;688184;1731;566;466;496;0;true;b96482d34ec98f9636c1a24a2b52b15b68288ec6032acf9bf72a3da9c4bb4f1e;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref5_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;0;0;0;0;0;0;false;ce6c8455502cb7cb772f3b491feb70c84c6f9764080b9b013d400e6a0583e9a5;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref6_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;492111;1422;462;373;379;0;true;522ed70c2e93ac3cfeb0732bac9af4d6363e83321ba31ac15afb5a6f57e0d014;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref7_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;119895;302;96;80;80;0;true;d8ad7218f2aefb9e9862eb6991fd6e031547e897991621de2df818e16c78df1c;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref8_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;23;13;1;0;0;0;false;98a5a3894f306b8a619965efa694119064e6ff9491e92074b52cb4c659021300;unchanged;exclude
+df_GB_MA_VZ_2,68_Ref9_Vorversuchsreihe;;false;false;false;false;Historischer Datensatz, keine neuen Messungen;1;0;0;1147546;6690;2195;1798;2501;0;true;9240b822ccc8441b57916e0b33a7d0cc83e9a22f869ab688d18209d2794e7722;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi1_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1164861;2289;747;609;645;0;true;efb24dcd2fb733eb4d0ffd354c686a3bb2e7e6c7970de79b4c88f1dbf8bf56ed;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi2_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1159972;2444;798;650;695;0;true;1a539fda54ae3ab5106afb8b1198b4aa6eb32f4a0f2c892751840c6e103edba1;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi3_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1159764;2292;748;609;645;0;true;a9da7d15aebd385308748a3b38de1a7d71b24ad80939ce97f3641115a04ce588;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi4_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1053815;2878;940;770;848;0;true;9058786a7894a675b4430309b2945ba425ed7225c49caf9f392c3baa89615066;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi5_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1047770;2587;844;691;746;0;true;01c0297226b0f1bfb03d6ba6fabea492c9a8cb630c327baa83c870078bd391a7;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi6_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1049145;2571;839;687;742;0;true;b0f38b61edc88c5e52800f21cdcc7f1f17af6d9772c215969e7be7434c402885;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi7_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;985182;2889;945;773;851;0;true;24feaf30251d657b5287f66983156c8080d48c775af950f821032d7c580212c7;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi8_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;987201;2655;868;707;773;0;true;01de4084e9c7aa8e207d7813668f07c8c41b6826419938a6c6110f784233541c;unchanged;exclude
+df_GB_MA_VZ_3.8_PreLi9_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;985836;2531;827;675;730;0;true;8d2067cbcacb19dd1430279c33d100183b5df3ca20699954aacdf33124635121;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref1_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1154580;4570;1498;1224;1500;0;true;40ec7c4ec8eba3d69ea499d706807ca0f0dc532819b2874e9cff00d02c925f86;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref2_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1150767;4958;1625;1326;1677;0;true;fca2e86dbbc5dbbf338bf4a5911e4d84588a753560f43a2d9f27344ae29ace6b;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref3_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1151972;5329;1747;1429;1835;0;true;377ff99b9ec26049cc19932496bcbea55c3f9b01e8a3777e3efd838abac4154e;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref4_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1050586;4563;1494;1224;1500;0;true;2b054c1b44f95f33a96534f12d15b38ee01699f4c7c8e3997a777df784a4d68e;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref5_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1050869;4448;1456;1187;1463;0;true;d3cea39231b23d37639f5b42f5463e82907c39706de88d5b8a5cc9791f1e0fff;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref6_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;1048613;4714;1544;1265;1565;0;true;6dc919945752212d1c2f5d27b6ef983fcb3ed9aa623feffab1e670c453b8e749;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref7_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;984614;5170;1695;1388;1766;0;true;985e8d2613ca689b4eca28510e8860175d1b881b8bd2ff92a21bcbe519270b40;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref8_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;993463;7503;2462;2013;2959;0;true;10b352c0d4c826b96197da73686a88d21e8e78574ffa14cb8a35655d173d4bfc;unchanged;exclude
+df_GB_MA_VZ_3.8_Ref9_Lebensdauertest_3.8;;false;false;false;false;;1;1;0;980178;7614;2499;2045;3035;0;true;3c085ab9fe45b368f56b4e2f3251dc52888c9a764de3d760bd6df7c3d83ab27e;unchanged;exclude
+df_MH_FP_VZ_65_24h_1;;false;false;false;false;;1;0;0;229936;13;3;0;0;0;false;77b950937435198cf63ab5f9a452f88ac347e78ec551fbe0b5966c952bc46371;unchanged;exclude
+df_MH_FP_VZ_65_24h_2;;false;false;false;false;;1;0;0;232639;13;3;0;0;0;false;bb6f417ea3c0d5eb5f384599d401173f55d21b1f65877aed61b66a4c85a7fc5d;unchanged;exclude
+df_MH_FP_VZ_65_24h_3;;false;false;false;false;;1;0;0;227803;13;3;0;0;0;false;523e30287081123d52126280f71567e5904eee4a18fedf28468e641bd4b0c30e;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_0h_1;;false;false;false;false;;1;0;0;162101;11;3;0;0;0;false;44e0289e23d5917154e5caaf2dec8565e8d117158ee75daf9256908826f11533;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_0h_2;;false;false;false;false;;1;0;0;162490;11;3;0;0;0;false;e122c350ef3bae64d634073e31ff6f48bdbf356a6e6be4e9510d6b91850ad7ff;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_0h_3;;false;false;false;false;;1;0;0;164168;11;3;0;0;0;false;1293452a83ce356ce8936b057665f622b2880f09d67d2293c6c7623fa6d3e540;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_0h_5_1;;false;false;false;false;;1;0;0;155739;11;3;0;0;0;false;c5a47a8fff63533ffcb2c45f76db08990f99de72c4706743a2292c9b6faf2a7f;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_0h_5_2;;false;false;false;false;;1;0;0;156151;11;3;0;0;0;false;9b5046f1620694532df096d0ddb294d1777ef4e3240545b2a013c243ffca1787;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_0h_5_3;;false;false;false;false;;1;0;0;156068;11;3;0;0;0;false;638228f0d643be1cc692f16666425992bb6967dc0eeb7140c985f5f235f64ae3;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_1;;false;false;false;false;;1;0;0;767997;11;3;0;0;0;false;7358f03a721fb171ec898064a72fa999169ede0b6397b1662477bf1a4ea3835c;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_2;;false;false;false;false;;1;0;0;767935;11;3;0;0;0;false;b89cd74a8b528b20326f93365c937424a46f7330dd1d320f2ce884d21fa710b6;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_3;;false;false;false;false;;1;0;0;767451;11;3;0;0;0;false;be72626455001f95ed6560bdb72f9a76eb23fb7894d67b1f3cb6231b389aa40d;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_4;;false;false;false;false;;1;0;0;767482;11;3;0;0;0;false;37492710f84a3387db1ce971d73da23210a7e2fc8f1645f6c4bcb5c2b196211f;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_5_1;;false;false;false;false;;1;0;0;760279;11;3;0;0;0;false;116668db6d931c2db162492686f458ca373c2aeea27d851d7e44b4e0131e6755;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_5_2;;false;false;false;false;;1;0;0;760395;11;3;0;0;0;false;d6ea7a7c336f34588b065119a96a6b5eafa7153e318bcfbcecbe68a4187a01c0;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_5_3;;false;false;false;false;;1;0;0;760325;11;3;0;0;0;false;e47e7b93067b62d2569b4472e332bf2c0d84fef29d9649610865741c15996eb1;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_168h_5_4;;false;false;false;false;;1;0;0;760188;11;3;0;0;0;false;48d6b97b028df0cd6743b7c93313e772efe5b181e14cae18abb249bca3e6b72e;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_24h_1;;false;false;false;false;;1;0;0;248813;11;3;0;0;0;false;0ac39ec39613f1bbd431dd136868359f6aba821a103b1685b776e1e58264345e;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_24h_2;;false;false;false;false;;1;0;0;248486;11;3;0;0;0;false;028b9c418650f1800304b73af03dbee1989d08a06313e3d1d2601755610588cc;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_24h_3;;false;false;false;false;;1;0;0;248951;11;3;0;0;0;false;ac124daf303f7f0369899fcc0f304bad80ab82c34850ee8b8239c7aaba99b1e4;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_24h_5_1;;false;false;false;false;;1;0;0;242020;11;3;0;0;0;false;b390061762e12d7337e9e9b2527ac696b7a8dc0d4a13f669e6ae9694a6a3210c;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_24h_5_2;;false;false;false;false;;1;0;0;242266;11;3;0;0;0;false;cdfd9fdd7d9ed1f10e991c9d1db6ecd644c6799628abfca1b6fe5e4ccc19f3f3;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_24h_5_3;;false;false;false;false;;1;0;0;241978;11;3;0;0;0;false;1ea76818ef6e6c232a3cdcf3eb54acfaff193f0f6d1613d05ba63130bb7928ba;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_268_168_5_1;;false;false;false;false;;1;0;0;763018;11;3;0;0;0;false;0e14d7da59eec081d017ed97ab9faef61ad04fc5a017861398ec37fbbaff3036;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_268_168_5_2;;false;false;false;false;;1;0;0;763148;11;3;0;0;0;false;e7b1cc4d52677bdd39e4e40e9db238136060b5aad58983ccaa7554fac8079132;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_268_168_5_3;;false;false;false;false;;1;0;0;763082;11;3;0;0;0;false;0817796a21948e764ad4bd3b40fdd799eea178f78f642d89704099665a408aa4;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_268_24h_5_1;;false;false;false;false;;1;0;0;245541;11;3;0;0;0;false;8a4ecb1664bf8cf3e05687ea41e3bc3a92c28c4a87b3413cddd7192cdea62aba;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_268_24h_5_2;;false;false;false;false;;1;0;0;244951;11;3;0;0;0;false;47e8dbbb4606ee06184c747a3d6052597327d1ec1064fd24c9e4ca9f8453b95b;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_268_24h_5_3;;false;false;false;false;;1;0;0;244968;11;3;0;0;0;false;a0e504975a903763f13d50ac580f8e43910ab8983ad32a63d4151cd51a50c5bf;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_48h_1;;false;false;false;false;;1;0;0;334557;11;3;0;0;0;false;36ff1842bb690123e1613bcb7a5f9ed08832a9adb15833e6cb2f3e7bd2536615;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_48h_2;;false;false;false;false;;1;0;0;335622;11;3;0;0;0;false;99007f95e80f927282104e307e5a85cf28d0ff6062eef8830cc4e602f434a742;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_48h_3;;false;false;false;false;;1;0;0;335401;11;3;0;0;0;false;249294bfafdb66a6b70fd85828690b8c825407024c83de958b06831b970808fd;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_48h_5_1;;false;false;false;false;;1;0;0;328470;11;3;0;0;0;false;4c7a81e9c6d5a26ec128442d609b3107fc848cc14838f02c406666e7feb7863d;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_48h_5_2;;false;false;false;false;;1;0;0;327739;11;3;0;0;0;false;4963adb423612a618a27ee7dbda2e1ebb6c114681b5db3b53f9b1bf7aaf24aa4;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_48h_5_3;;false;false;false;false;;1;0;0;328562;11;3;0;0;0;false;52391ae65481740c401a6dbf3ead64f89068ab1c186ee3f7e4fe5fbfe0f788e0;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_72h_1;;false;false;false;false;;1;0;0;420909;11;3;0;0;0;false;284d6575fa2c8f40ae6aacdaaa3597c6ebd98fbcfd04ec12e2362668599df152;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_72h_2;;false;false;false;false;;1;0;0;421428;11;3;0;0;0;false;1984abd8aca7768b18f9bfa9621f5b10ee9aaee268e4c3dbc658cd22faf4297f;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_72h_3;;false;false;false;false;;1;0;0;421677;11;3;0;0;0;false;1341fd235d9ba73530f9513e2d4cebbd0dbff9dd5b70fd9535061dd44d749554;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_72h_5_1;;false;false;false;false;;1;0;0;414309;11;3;0;0;0;false;a1d91faade030b3095409b668554cd3d57ce695fe8ec1074e7c055a0cf6c3067;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_72h_5_2;;false;false;false;false;;1;0;0;414647;11;3;0;0;0;false;e8dba889654832ad4b7c34773c76cf0b15654afee160cf04bebf0d810043764d;unchanged;exclude
+df_MH_MA_VV_HZ_Prä_72h_5_3;;false;false;false;false;;1;0;0;414841;11;3;0;0;0;false;c90ee85ecbe35759be84364ecd8102294b9ef45a923f2b0225229c07b99c439d;unchanged;exclude
+df_MH_MA_VV_HZ_Ref_1;;false;false;false;false;;1;0;0;7;4;1;0;0;0;false;3c327c8f370a7ac795a4582ee1111e491fdd7896761c7d528b4ef30917441f98;unchanged;exclude
+df_MH_MA_VV_HZ_Ref_2;;false;false;false;false;;1;0;0;146389;11;3;0;0;0;false;b191035478b53c07d25fab4401e8e0dbc7163c82fc6c22e1037a03c700d26d36;unchanged;exclude
+df_MH_MA_VV_HZ_Ref_2.68_1;;false;false;false;false;;1;0;0;146249;11;3;0;0;0;false;92ea73ede6de396af55de443b7b13b2e1f119d1481d2cd35c72f8f315023170e;unchanged;exclude
+df_MH_MA_VV_HZ_Ref_2.68_2;;false;false;false;false;;1;0;0;146228;11;3;0;0;0;false;d3e2ce1df6c9510327d48c0f12a545fb9506c6aad9b0147c7db015915bd48125;unchanged;exclude
+df_MH_MA_VV_HZ_Ref_2.68_3;;false;false;false;false;;1;0;0;146303;11;3;0;0;0;false;b99c63cde290b33e8cdc5c06df257c9feb15a3329eac7483ca26d55c9b8b1e40;unchanged;exclude
+df_MH_MA_VV_HZ_Ref_3;;false;false;false;false;;1;0;0;7;4;1;0;0;0;false;366f4fba00dff56eeefdfd3e01d4406ae6517adbcc0eeb4d0c324db4d9a6b1f7;unchanged;exclude
+df_MH_MA_VV_VZ_SiO_Ref_1;;false;false;false;false;Keine Ziel-Vollzellen;1;0;0;35353;10;3;0;0;0;false;f83384e504c25b48931f2ba9eccbf7aef097b2b8f216acf18999c6f54c593ecd;unchanged;exclude
+df_MH_MA_VV_VZ_SiO_Ref_2;;false;false;false;false;Keine Ziel-Vollzellen;1;0;0;35207;10;3;0;0;0;false;d2d3f76f258bbc18e26b42ffe80e8fbbf953efbbdc1c9b584823a1a167a6eb6b;unchanged;exclude
+df_MH_MA_VV_VZ_SiO_Ref_3;;false;false;false;false;Keine Ziel-Vollzellen;1;0;0;35083;10;3;0;0;0;false;6e85f78c6527c56f7f926087085790d0ebfc1759c060ceb6ed554fe04b3d9e13;unchanged;exclude
+df_MH_MA_VV_VZ_SiO_Ref_4;;false;false;false;false;Keine Ziel-Vollzellen;1;0;0;35010;10;3;0;0;0;false;9442dfa0e3e5f9aefad5b4d7a93c9518a05666edb39501883521f6869be6b5ac;unchanged;exclude
+df_MH_MA_VV_VZ_SiO_Ref_5;;false;false;false;false;Keine Ziel-Vollzellen;1;0;0;35343;10;3;0;0;0;false;2a64e282f1821512c6cc10cb1c035c20bd45880223668e78b2adaa018567c155;unchanged;exclude
+df_MH_MA_VZ_3,8_10µm_168h_1;df_MH_MA_VZ_3,8_10µm_168h_1;true;true;true;true;;2;2;1;758240;1606;521;418;438;484;true;8bce7122f9f09bfa878121a82eb9ed2f6c9ae12b34edd7aaa2257bed8aa9d52e;unchanged;process
+df_MH_MA_VZ_3,8_10µm_168h_2;df_MH_MA_VZ_3,8_10µm_168h_2;true;true;true;true;;2;2;1;1822770;1760;571;459;480;532;true;8d03802e145171c0932ead1b5cc27bd07d7f0f6bedaec855b0bf3ab12efbf873;unchanged;process
+df_MH_MA_VZ_3,8_10µm_168h_3;df_MH_MA_VZ_3,8_10µm_168h_3;true;true;true;true;;2;2;1;1826967;1662;540;430;451;501;true;7bcc5f0139d6fd894a177752bdde14a4ee2c1893fc722438458b2c3a7754f9ba;unchanged;process
+df_MH_MA_VZ_3,8_10µm_168h_4;df_MH_MA_VZ_3,8_10µm_168h_4;true;true;true;true;;2;2;1;1803970;1631;531;428;458;492;true;17ce5d33c72f3d05f4d97ad3ca14a733c54bbd573086afee91351f535b3534d4;unchanged;process
+df_MH_MA_VZ_3,8_10µm_168h_5;df_MH_MA_VZ_3,8_10µm_168h_5;true;true;true;true;;2;2;1;1801690;1645;535;431;461;497;true;ce6bc3820bef759e363856a61d1517a54cab8d018164bd1427c1efa79c15f8de;unchanged;process
+df_MH_MA_VZ_3,8_10µm_168h_6;df_MH_MA_VZ_3,8_10µm_168h_6;true;true;true;true;;2;2;1;758886;1644;534;429;444;496;true;48337f7ef8c077d4668d368d5b9e9b5c2d4a053bcf95dfa1dc5d578d675f9fe0;unchanged;process
+df_MH_MA_VZ_3,8_10µm_1h_1;;false;false;false;false;;2;2;1;228866;97;25;14;14;0;true;ccc0515a13c1202d82d93f4ba24bdf16ad1c4f5b3bd52ef20610c23eaf830b6b;unchanged;exclude
+df_MH_MA_VZ_3,8_10µm_1h_10;df_MH_MA_VZ_3,8_10µm_1h_10;true;true;true;true;;2;2;1;1273377;1752;569;460;503;531;true;8bd4f2d75ee21ab4c191df8c6f47a99b0af7879742542d72ab56e27508eadb10;unchanged;process
+df_MH_MA_VZ_3,8_10µm_1h_11;df_MH_MA_VZ_3,8_10µm_1h_11;true;true;true;true;;2;2;1;1273102;1772;576;465;508;538;true;3d7d0247f3da83a57afc638443c51a5ecec566c4e8a69233587fcef4c62ee82d;unchanged;process
+df_MH_MA_VZ_3,8_10µm_1h_12;df_MH_MA_VZ_3,8_10µm_1h_12;true;true;true;true;;2;2;1;1291986;1892;615;495;547;575;true;645f4640c22ee61a44618d37575eab7304e33f79bdb38a9578f16ca0b0fb15d6;unchanged;process
+df_MH_MA_VZ_3,8_10µm_1h_2;;false;false;false;false;;2;2;1;230254;96;24;13;13;0;true;40302e38badd4bc2cb869553c9a655fd1c93f343cd3c425f56261d754db473ae;unchanged;exclude
+df_MH_MA_VZ_3,8_10µm_1h_3;;false;false;false;false;;2;2;1;230068;94;24;13;13;0;true;4ca8c879c9ca6c3089e41dc1962c69537313e6aea943b05b2a4d158afcee8665;unchanged;exclude
+df_MH_MA_VZ_3,8_10µm_1h_4;;false;false;false;false;;2;2;1;228787;100;26;15;15;0;true;e3c40c9ddafbbf83de71df186c3f653327beeee8e472e9d2bc7ac9d8b33e0a51;unchanged;exclude
+df_MH_MA_VZ_3,8_10µm_1h_5;df_MH_MA_VZ_3,8_10µm_1h_5;true;true;true;true;;2;2;1;155727;1733;563;454;496;525;true;ecf2fe168b4d0f53491693074d5b7eb3be356e707f37de6f935bbdaadd73d8cb;unchanged;process
+df_MH_MA_VZ_3,8_10µm_1h_6;df_MH_MA_VZ_3,8_10µm_1h_6;true;true;true;true;;2;2;1;1271470;1771;576;465;508;538;true;7338e8ee1ecf9404409792df270c5ac19d0bf8b548ed1b345f85cd0264cdd80f;unchanged;process
+df_MH_MA_VZ_3,8_10µm_1h_7;;false;false;false;false;;1;1;0;10977;7;1;0;0;0;false;82164972cb05506ccb55c2092c4a51a80d167e7eee90e3fca8cf665d04776e04;unchanged;exclude
+df_MH_MA_VZ_3,8_10µm_1h_8;;false;false;false;false;;1;1;0;10555;7;1;0;0;0;false;b7290f029b341040ed1fc45fdd017e8ef2d7ef2ba60a7c905cbad7af8ca52973;unchanged;exclude
+df_MH_MA_VZ_3,8_10µm_1h_9;df_MH_MA_VZ_3,8_10µm_1h_9;true;true;true;true;;2;2;1;1271919;1770;575;465;508;538;true;fcd8deb115163c099ae87df02f8ed086e9b24fc92b56e3cc0999c96b63a970ec;unchanged;process
+df_MH_MA_VZ_3,8_10µm_24h_1;df_MH_MA_VZ_3,8_10µm_24h_1;true;true;true;true;;2;2;1;1413399;2116;688;548;624;639;true;ac42e2eca72a41f8981e24c4c534f1d9dc56ae406ee9cdc9397282bc539e5dd6;unchanged;process
+df_MH_MA_VZ_3,8_10µm_24h_2;df_MH_MA_VZ_3,8_10µm_24h_2;true;true;true;true;;2;2;1;1375569;1826;594;474;527;552;true;ae966a8e1fe8829a8683113008a997f4d6fc969c844ec0e1e7b4ae718f6a730a;unchanged;process
+df_MH_MA_VZ_3,8_10µm_24h_3;df_MH_MA_VZ_3,8_10µm_24h_3;true;true;true;true;;2;2;1;1375200;1867;606;486;541;566;true;9c9776d82340fd644a49285559cb9bc5f73c15b2f89895f3def0db790ca60749;unchanged;process
+df_MH_MA_VZ_3,8_10µm_24h_4;df_MH_MA_VZ_3,8_10µm_24h_4;true;true;true;true;;2;2;1;1370696;1776;576;465;516;539;true;19c724b1938302e5f914143741bbbad364484c2a4823cb2f8d47587ba79ac55e;unchanged;process
+df_MH_MA_VZ_3,8_10µm_48h_1;df_MH_MA_VZ_3,8_10µm_48h_1;true;true;true;true;;2;2;1;1442530;1723;560;452;494;521;true;9a1566f4934607de03d3b5451e45923b6749d7f28f274b3aed30ea4d48160523;unchanged;process
+df_MH_MA_VZ_3,8_10µm_48h_2;df_MH_MA_VZ_3,8_10µm_48h_2;true;true;true;true;;2;2;1;1438180;1702;551;444;487;515;true;e91a703ad71b26668efd2cfc6b480764ed989671da1cb1edff68e862f48b35f3;unchanged;process
+df_MH_MA_VZ_3,8_10µm_48h_3;df_MH_MA_VZ_3,8_10µm_48h_3;true;true;true;true;;2;2;1;1434553;1624;526;427;468;493;true;1f5cb0867f3ac92c3d44ce50d6262d0d8945dfb8a5943bd3d98fe1019f7eac86;unchanged;process
+df_MH_MA_VZ_3,8_10µm_48h_4;df_MH_MA_VZ_3,8_10µm_48h_4;true;true;true;true;;2;2;1;1437403;1708;553;446;489;517;true;6e56212f376fb2837f394c1e9a03ffe911716299bc457422916a85ac7446d955;unchanged;process
+df_MH_MA_VZ_3,8_5µm_168h_1;df_MH_MA_VZ_3,8_5µm_168h_1;true;true;true;true;;2;2;1;2251961;2430;791;634;700;737;true;0a636bc8581e2fd1e6dc9aed7f8a9c4885b57b889838ed0fe395745e3ddb739e;unchanged;process
+df_MH_MA_VZ_3,8_5µm_168h_2;df_MH_MA_VZ_3,8_5µm_168h_2;true;true;true;true;;2;2;1;2235238;2385;777;629;684;725;true;49f9508e5eec58b78da77f455c2baea1bb02265db31db92f2a61bb4b1323b7b7;unchanged;process
+df_MH_MA_VZ_3,8_5µm_168h_3;df_MH_MA_VZ_3,8_5µm_168h_3;true;true;true;true;;2;2;1;2234513;2395;780;632;687;729;true;375307eb2b3985d00b0d1f9b7bef8bb165f3281c46f4833fb255d8fdfda231b4;unchanged;process
+df_MH_MA_VZ_3,8_5µm_168h_4;df_MH_MA_VZ_3,8_5µm_168h_4;true;true;true;true;;2;2;1;2253716;2517;821;664;735;764;true;7361a3af1bd7faefd3c5fdf82d4b5b4f9f9a7451a2d10e5199a2ceee127645fe;unchanged;process
+df_MH_MA_VZ_3,8_5µm_168h_5;df_MH_MA_VZ_3,8_5µm_168h_5;true;true;true;true;;2;2;1;2256076;2426;791;636;706;737;true;ed5663e4511182f5eb371ba0006af690ff68f6851d575e352e0cd6660817f0d9;unchanged;process
+df_MH_MA_VZ_3,8_5µm_168h_6;df_MH_MA_VZ_3,8_5µm_168h_6;true;true;true;true;;2;2;1;758008;1964;639;513;554;594;true;dc4228db8a7914ad89bc294ca25d571aa2e11e69135f0c5d7c7d2771430aec6a;unchanged;process
+df_MH_MA_VZ_3,8_5µm_1h_1;df_MH_MA_VZ_3,8_5µm_1h_1;true;true;true;true;;2;2;1;1267425;1768;574;464;508;537;true;780ebe010163069a61387de613a50e10b10c7dd6ecfcf675d9313661bb50c4f8;unchanged;process
+df_MH_MA_VZ_3,8_5µm_1h_2;df_MH_MA_VZ_3,8_5µm_1h_2;true;true;true;true;;2;2;1;1265381;1770;574;463;508;537;true;42a3bff503b54ccdd6a8bdaad1c031a0a4c301f99528a732f04c7731df54da3f;unchanged;process
+df_MH_MA_VZ_3,8_5µm_1h_3;df_MH_MA_VZ_3,8_5µm_1h_3;true;true;true;true;;2;2;1;155234;1758;571;462;505;534;true;ad068e01be906026d22dc4d75e8f665cb22d80394344e6b7bd03090794c6eae1;unchanged;process
+df_MH_MA_VZ_3,8_5µm_1h_4;df_MH_MA_VZ_3,8_5µm_1h_4;true;true;true;true;;2;2;1;1266957;1739;565;457;499;527;true;5ea618de2f457f09d96710361b7397b7846254f1c7c515afa76b98a8c61df648;unchanged;process
+df_MH_MA_VZ_3,8_5µm_24h_1;df_MH_MA_VZ_3,8_5µm_24h_1;true;true;true;true;;2;2;1;237554;1709;554;445;489;517;true;34adb57eb10b732180085b6ae12e159b233e5778e054ba80a472bca83520c6cf;unchanged;process
+df_MH_MA_VZ_3,8_5µm_24h_2;df_MH_MA_VZ_3,8_5µm_24h_2;true;true;true;true;;2;2;1;1346088;1719;558;449;492;520;true;bb183691b1903e2941458f269ef6d176d2614db1df8382f37dce7423ef6c2be4;unchanged;process
+df_MH_MA_VZ_3,8_5µm_24h_3;df_MH_MA_VZ_3,8_5µm_24h_3;true;true;true;true;;2;2;1;1351429;1674;544;437;478;505;true;caf0353c71fd38bc9fdb663347043a6af85f37326365294d727a1888200153e5;unchanged;process
+df_MH_MA_VZ_3,8_5µm_24h_4;df_MH_MA_VZ_3,8_5µm_24h_4;true;true;true;false;Keine Langzeitdaten aufgenommen;1;1;0;237541;13;3;0;0;2;false;be325bcb6e09ac1841654b47ba5183bec41694835e5002469f214add19be1734;unchanged;formation_only_expected
+df_MH_MA_VZ_3,8_5µm_48h_1;df_MH_MA_VZ_3,8_5µm_48h_1;true;true;true;true;;2;2;0;1888788;2581;841;679;780;786;true;6c5d2a10a57ffb3d43d3f12997064b51b68386552cc887b7b23edd0f73d743dc;unchanged;process
+df_MH_MA_VZ_3,8_5µm_48h_2;df_MH_MA_VZ_3,8_5µm_48h_2;true;true;true;true;;2;2;0;1886807;2543;828;671;771;776;true;d3f4eef99fb7b27aff29cd0f2035db4de6040bd7099f71c8f681e118b70a10f4;unchanged;process
+df_MH_MA_VZ_3,8_5µm_48h_3;df_MH_MA_VZ_3,8_5µm_48h_3;true;true;true;true;;2;2;1;1870628;2523;822;671;758;771;true;f31c21395cdab48371770c07fd2e6f903cf925dcbf008fbf6cc33bee89adb48f;unchanged;process
+df_MH_MA_VZ_3,8_5µm_48h_4;df_MH_MA_VZ_3,8_5µm_48h_4;true;true;true;true;;2;2;1;1900115;2546;829;671;771;778;true;761f8341fa296e7af877dbca6a1a7674c770328216f10d51a29c23539f6e76fd;unchanged;process
+df_MH_MA_VZ_3,8_Ref_1h_1;;false;false;false;false;;2;2;1;211956;108;28;17;17;0;true;564f425e1cb4b57fb242cf3e67f42e5bc24f55ab4bcb01e3dd35bc2c2ad22926;unchanged;exclude
+df_MH_MA_VZ_3,8_Ref_1h_2;;false;false;false;false;;2;2;1;213550;106;28;17;17;0;true;ba2a7259fccd28d0a10f11920922e4ec0c5c3ca4f821db8cbfd3dd89fb5cffdb;unchanged;exclude
+df_MH_MA_VZ_3,8_Ref_1h_3;;false;false;false;false;;2;2;1;213552;106;28;17;17;0;true;c3c18b83677578fdb30ea5a01e933cb7921fb618bbb349b84fbf03a435ad9a61;unchanged;exclude
+df_MH_MA_VZ_3,8_Ref_1h_4;;false;false;false;false;;2;2;1;212558;108;28;17;17;0;true;12141fdaef2051f133f519eec4516649f0836f829021b4712770d392f5a3939e;unchanged;exclude
+df_MH_MA_VZ_3,8_Ref_1h_5;df_MH_MA_VZ_3,8_Ref_1h_5;true;true;true;true;;2;2;1;1249112;1827;593;478;526;554;true;7156b345d5b7efacb03be272df37338bfe4104bf91e4a42e059e2e8dabd36dd3;unchanged;process
+df_MH_MA_VZ_3,8_Ref_1h_6;df_MH_MA_VZ_3,8_Ref_1h_6;true;true;true;true;;2;2;1;1250393;1813;588;473;521;549;true;cbb9886ec7b00bf91a8e2bf7683967f96e257c27b60f42506afe89e5f6ae25d6;unchanged;process
+df_MH_MA_VZ_3,8_Ref_1h_7;df_MH_MA_VZ_3,8_Ref_1h_7;true;true;true;true;;2;2;1;146746;1794;583;469;516;544;true;23badfe25ecbd4ed263ec283c654142ed11a4646ae28bf0be3675200068e45da;unchanged;process
+df_MH_MA_VZ_3,8_Ref_1h_8;df_MH_MA_VZ_3,8_Ref_1h_8;true;true;true;true;;2;2;1;1248669;1868;608;492;539;567;true;e96bf9b258e6840557c6c90e9527b3f4db9ee3025f18cbd2ee7e6c3d8ca7c04a;unchanged;process
+df_MH_VZ_3,8_10µm_48h_35°C_1;df_MH_MA_VZ_3,8_10µm_48h_35°C_1;true;true;true;true;;3;3;1;2407529;3840;1253;1021;1231;1174;true;b786e0190e5c1cdf448b35077373131c591f8cd843f6f03133fb6985cb3dc4cf;unchanged;process
+df_MH_VZ_3,8_10µm_48h_35°C_2;df_MH_MA_VZ_3,8_10µm_48h_35°C_2;true;true;true;true;;2;2;1;2242530;3530;1153;939;1110;1080;true;31cec20399511d7a258c467792342e481a899493924c46e8f6971feca0bdf03a;unchanged;process
+df_MH_VZ_3,8_10µm_48h_35°C_3;df_MH_MA_VZ_3,8_10µm_48h_35°C_3;true;true;true;true;;2;2;1;2584800;4138;1353;1103;1356;1268;true;fcb4460ecc5868655dc8bf8e0b9dcd29127a57bc65b4de7c57d16ea67a03b952;unchanged;process
+df_MH_VZ_3,8_10µm_48h_35°C_4;df_MH_MA_VZ_3,8_10µm_48h_35°C_4;true;true;true;true;;2;2;1;2413274;3834;1253;1021;1231;1174;true;f969bce33a0d29fe93fb345a06118477f9f3cf0c81942eb9d7e5f5f51f7939bb;unchanged;process
+df_MH_VZ_3,8_10µm_48h_35°C_5;df_MH_MA_VZ_3,8_10µm_48h_35°C_5;true;true;true;true;;2;2;1;2001042;2922;953;775;880;892;true;ebd34c83ea1d95541e3e4d4582af69344ff3d5a036a814da4d8b681085ba041e;unchanged;process
+df_MH_VZ_3,8_10µm_48h_35°C_6;df_MH_MA_VZ_3,8_10µm_48h_35°C_6;true;true;true;true;;2;2;1;2170494;3226;1053;857;993;986;true;20e6963f38f6eafa5f58c0a6eb99f636d4c7cef70391cd9aea34981121d4867f;unchanged;process
+df_MH_VZ_3,8_5µm_48h_35°C_1;df_MH_MA_VZ_3,8_5µm_48h_35°C_1;true;true;true;true;;2;2;1;2086908;3074;1003;816;936;939;true;c8223dfb6ffedf7c500644e4960d24c80228072b13dd4c421209b68f7eed44a2;unchanged;process
+df_MH_VZ_3,8_5µm_48h_35°C_2;df_MH_MA_VZ_3,8_5µm_48h_35°C_2;true;true;true;true;;2;2;1;2081855;3074;1003;816;936;939;true;0a5441c085dd25b36c74cd72725c1b2d2db6adef95bb26cd248ed1cf4422b2fe;unchanged;process
+df_MH_VZ_3,8_5µm_48h_35°C_3;df_MH_MA_VZ_3,8_5µm_48h_35°C_3;true;true;true;true;;2;2;1;1967538;3074;1003;816;936;939;true;f4954e41e1fe200a9d801c353bf22cc90bc3846107f80153dc9b7fe2dda24846;unchanged;process
+df_MH_VZ_3,8_5µm_48h_35°C_4;df_MH_MA_VZ_3,8_5µm_48h_35°C_4;true;true;true;true;;2;2;1;1976836;2922;953;775;880;892;true;5a39decd0a7f9cddacf1068872c90bc1242f9bc1679c6e79e1ad010913e68e7f;unchanged;process
+df_MH_VZ_3,8_5µm_48h_35°C_5;df_MH_MA_VZ_3,8_5µm_48h_35°C_5;true;true;true;true;;2;2;1;1920140;2770;903;734;825;845;true;ee993231992356a7f2c00c0e91aba6e57868af4f2c02e0fe5e4555ad894a1a8d;unchanged;process
+df_MH_VZ_3,8_5µm_48h_35°C_6;df_MH_MA_VZ_3,8_5µm_48h_35°C_6;true;true;true;true;;2;2;1;2234896;3378;1103;898;1051;1033;true;570e968cf10da8f4d6c22ddba250c4094760ef0416ab0a15f083b31cef9153fb;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_0b_1;df_MH_VZ_PZ_3,8_10µm_48h_0b_1;true;true;true;true;;2;1;0;1397968;1723;558;447;468;521;true;bd743c72475091e5b90277bb860226a947be1d2b1a6a5be6d5eb5c5986585360;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_0b_2;df_MH_VZ_PZ_3,8_10µm_48h_0b_2;true;true;true;true;;2;1;0;1400875;1968;639;517;545;597;true;a481b472f24f30f6b98a19e744b0d018012ed010af8e7afbd8733d1cc119de06;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_1b_1;df_MH_VZ_PZ_3,8_10µm_48h_1b_1;true;true;true;true;;2;1;0;1773573;2618;853;693;771;798;true;bffa6e4c6b875365f289c9e7732494237ee3b9e700f0caf59d36ec80e377460a;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_1b_2;df_MH_VZ_PZ_3,8_10µm_48h_1b_2;true;true;true;true;;2;1;0;1337597;1554;503;406;421;438;true;8b718fb1383d8b8b5f83329c8fd14c87b911673964c3aaca0f51fe5b74ad4674;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_2b_1;df_MH_VZ_PZ_3,8_10µm_48h_2b_1;true;true;true;true;;2;1;0;2102052;3376;1103;898;1051;1033;true;522198a134b85ab3862a8b5f4520a7884706775e8aa4d58e7012ceb914981293;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_2b_2;df_MH_VZ_PZ_3,8_10µm_48h_2b_2;true;true;true;true;;2;1;0;2101265;3530;1153;939;1110;1080;true;67ae64d3ad6b582269752025f4ba67a5eeca7a750df19c0078a5d74158493b30;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_3b_1;df_MH_VZ_PZ_3,8_10µm_48h_3b_1;true;true;true;true;;2;1;0;2261298;4053;1325;1077;1308;1240;true;4f312a5d6be207cb61bafc92714d772f4df64dce3ffc3194ae8494391e998d5f;unchanged;process
+df_MH_VZ_PZ_3,8_10µm_48h_3b_2;df_MH_VZ_PZ_3,8_10µm_48h_3b_2;true;true;true;true;;2;1;0;2250288;3662;1197;976;1147;1121;true;0565795c170e8b9ad71f0449a81592e1c5d44ee2d622d40e9f58e69fd285ea7b;unchanged;process
+df_MH_VZ_PZ_3,8_Ref_48h_1;df_MH_VZ_PZ_3,8_Ref_48h_1;true;true;true;true;;4;1;0;1411157;2379;770;621;676;719;true;fd33e119a6a9f64ade73ef87ba53cd9ff80a44ca1e163eb5c62d0aa22d68183e;unchanged;process
+df_MH_VZ_PZ_3,8_Ref_48h_2;df_MH_VZ_PZ_3,8_Ref_48h_2;true;true;true;true;;2;1;0;1412742;2771;903;734;825;845;true;ddd91016762e4f0c7cc1ec41c191d2ce8b22dbafe2d2d4370325903425f65c2e;unchanged;process
+df_MH_VZ_PZ_3,8_Ref_48h_3;df_MH_VZ_PZ_3,8_Ref_48h_3;true;true;true;true;;2;1;0;1407805;2573;838;680;746;784;true;12c9b2b5cdb19f6b99950756a75669e0694248f1dc0706fc985ea702835c5760;unchanged;process
+dp_high_ref_1;;false;false;false;false;;2;1;0;4480014;638;304;266;267;0;true;ae52b18fff85fd66c37ddd3467ce6c8628310e0134de31383f27c7b85996f9c3;unchanged;exclude
+dp_high_ref_2;;false;false;false;false;;2;1;0;4435221;771;369;322;325;0;true;63fb5d908b30012d99aab425f8647c69993fc790f634e0a3ee053316e27f5105;unchanged;exclude
+dp_laserstruk_21;;false;false;false;false;;1;0;0;253123;11;3;0;0;0;false;72102312bd03d31889b6d648a2f4f209a6870fc795f7d1a1f8c5a6d081b28d74;unchanged;exclude
+dp_laserstruk_25;;false;false;false;false;;1;0;0;677024;4;1;0;0;0;false;1b321750f3545ff8aeed671c8cd18224fc3bf81e96a12f24d412ec0d61db7305;unchanged;exclude
+dp_laserstruk_26;;false;false;false;false;;1;0;0;200130;13;3;0;0;0;false;ed20196d80b422452ebcd552ce8e6de2c0beed6b812c56293e06d6de800014c7;unchanged;exclude
+dp_laserstruk_27;;false;false;false;false;;1;0;0;201259;13;3;0;0;0;false;8b215e298ecf3befbe0a4b004970f3c3b078786695598b52ce260c2e62e73fbc;unchanged;exclude
+dp_laserstruk_31;;false;false;false;false;;1;0;0;201337;4;1;0;0;0;false;2f5ab1a0219f914627b1270aeab73e2a89938312536928a3be5a0bab721e5c16;unchanged;exclude
+dp_laserstruk_32;;false;false;false;false;;1;0;0;201424;10;3;0;0;0;false;b78c681a5c98170cacf8579ec06e424fde47dd465400576272ca0900b4b7784c;unchanged;exclude
+dp_laserstruk_33;;false;false;false;false;;1;0;0;201317;4;1;0;0;0;false;e535e8d0eeb4c85afc45118e3dba996ec66a657965922c29a527c19f9340f593;unchanged;exclude
+dp_laserstruk_37;;false;false;false;false;;1;0;0;201308;4;1;0;0;0;false;6d82ccca26d9e0844228f26196354c2fe4eef3e84a870235347b8f39193c72b6;unchanged;exclude
+dp_laserstruk_38;;false;false;false;false;;1;0;0;201295;4;1;0;0;0;false;8ad6ebba97adc53774ab94597e54383f70c2413f745feae088b860918f7226b8;unchanged;exclude
+dp_laserstruk_39;;false;false;false;false;;1;0;0;201382;12;3;0;0;0;false;7a4383442499b9b6ba6776b52c80f7cfe77466319a394e4e817f93bae3c042e1;unchanged;exclude
+dp_laserstruk_43;;false;false;false;false;;1;0;0;201293;4;1;0;0;0;false;d7ca6ae30cf14a189e2b909750f1b0064911834d670b3de1843e719a03f5a8b5;unchanged;exclude
+dp_laserstruk_44;;false;false;false;false;;1;0;0;201288;4;1;0;0;0;false;b825277c06c7f9f5489e5cbc48949ad0ed3ddba0b31d8cbb09e4245a156f3444;unchanged;exclude
+dp_low_las_1;;false;false;false;false;;2;1;0;4505012;641;305;266;267;0;true;1630c24c179b0e051577d2b927168f3f73f68a08eb68240c3f16c8c3c5a77e3f;unchanged;exclude
+dp_low_las_2;;false;false;false;false;;2;1;0;4509858;648;309;267;268;0;true;ea573ea21a405b65330c3f2003f01c61caf84dbb0671d4d79200ccb7d05e9313;unchanged;exclude
+dp_low_las_3;;false;false;false;false;;2;1;0;4510310;641;305;266;267;0;true;50cd33c41d632d7d7d2f5a1902fa2106e7aedc59d23e94c52ca6da93c6f52cc1;unchanged;exclude
+dp_low_ref_3;;false;false;false;false;;2;1;0;4509945;647;308;266;267;0;true;a3d7003807ae2ccc9df07a0c221ba0e8e0d77818430c3b5f8eefec8c95e32d96;unchanged;exclude
+dp_mid_las_1;;false;false;false;false;;2;1;0;4494750;652;311;269;270;0;true;3726c68af93080c5ad8bb00106e6db174432568b05e22f8bb9fb6433f33dae4d;unchanged;exclude
+dp_mid_las_2;;false;false;false;false;;2;1;0;4496744;645;307;266;267;0;true;f8be07385e442c4a1d93f18c87374cfd32344d81444d440bfa1f2652b18651f6;unchanged;exclude
+dp_mid_las_3;;false;false;false;false;;2;1;0;4486989;665;317;275;276;0;true;d04c153fa15d37407334103028e37070ad61c646abd1af06994fb35c3bbc6b95;unchanged;exclude
+dp_mid_ref_1;;false;false;false;false;;2;1;0;4470855;668;319;277;278;0;true;91d95204a79539d6374a5552518147ff07df86499cc7aa0e1adbacf4c48502be;unchanged;exclude
+dp_mid_ref_2;;false;false;false;false;;2;1;0;4489330;664;317;275;276;0;true;ff6c44e7ce5549d8b5786473b2ee631282391c3949fc2e0140fbed96bae3d578;unchanged;exclude
+dp_mid_ref_3;;false;false;false;false;;2;1;0;4493341;659;314;272;273;0;true;ecdbfe847f912418c052114290a1ec88737190eb6827e7b48f485fc4f461e96f;unchanged;exclude

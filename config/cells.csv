@@ -1,0 +1,4 @@
+cell_pattern;enabled;include_validation;expect_longterm;note
+*_Vorversuchsreihe;false;false;false;Historischer Datensatz, keine neuen Messungen
+df_MH_MA_VV_VZ_SiO_Ref_*;false;false;false;Keine Ziel-Vollzellen; fehlendes DateTime ist fuer diese Auswertung irrelevant
+df_MH_MA_VZ_3,8_5µm_24h_4;true;true;false;Keine Langzeitdaten aufgenommen

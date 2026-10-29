@@ -1,0 +1,2 @@
+~Time[h]	DataSet	DateTime	t-Step[h]	t-Set[h]	Line	Command	U[V]	I[A]	Ah[Ah]	Ah-Step	Wh[Wh]	Wh-Step	T1[°C]	Cyc-Count	State
+2,78201482128889E-7	2	02.01.2026 17:55:58	2,78201482128889E-7	2,78201482128889E-7	2	CalcOnce	3,2122213633088	0	0	0	0	0	-61,11529	1	2
